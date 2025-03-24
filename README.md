@@ -17,7 +17,7 @@
 mesh_attacher.pyをアドオンとしてインストールします。アドオンのテスト中のセクションを選択すると、アドオンが一覧に表示されるので、選択します。
 オブジェクトを2つ配置し、置き先のオブジェクトを先に選択し、複製＆配置したいオブジェクトを続けて選択します。そして「追加」->「メッシュ」->「オブジェクトにメッシュを配置する」を選択すると、配置されます！
 
-![readme_image/readme_image.png](ツールの実行結果の画像)
+![ツールの実行結果の画像](readme_image/readme_image.png)
 
 Youtubeの映像：[https://www.youtube.com/watch?v=c5kiqW7SBL8&t=4s](https://youtu.be/M5bkB1EzYcE)
 
